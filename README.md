@@ -4,7 +4,9 @@
 
 For a PHP plugin or library
 
-Simply import the class-paystack-plugin-tracker.php file into your codebase
+Clone this repo and paste the class-paystack-plugin-tracker.php into your plugin directory.
+
+Then import the class-paystack-plugin-tracker.php file into your codebase
 
 ```include_once plugin_dir_path(__FILE__) . 'class-paystack-plugin-tracker.php';```
 
